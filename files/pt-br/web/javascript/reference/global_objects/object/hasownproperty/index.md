@@ -9,6 +9,8 @@ translation_of: Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty
 
 O método **`hasOwnProperty()`** retorna um booleano indicando se o objeto possui a propriedade especificada como uma propriedade definida no próprio objeto em questão (ao contrário de uma propriedade herdada).
 
+{{EmbedInteractiveExample("pages/js/object-prototype-hasownproperty.html")}}
+
 ## Sintaxe
 
 ```
